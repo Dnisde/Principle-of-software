@@ -1,0 +1,31 @@
+Question 2a:
+
+	  	0	1	2	3	4
+ 	0	0	50	50	0	0
+
+ 	1	50	0	0	25	25
+
+ 	2	50	25	0	5	20
+
+ 	3	25	25	25	0	25
+
+ 	4	0	0	0	100	0
+
+
+Answer: 
+Based on the question table from the term, It is not hard to find out some better grouping, 
+which the sum of the ranks is greater than the Current score: 130.
+
+For instance: 
+
+Solution: 
+{ [User_4 and User_3], [User_0 and User_2], [User_1] } gave a better sum of the rank, 
+which is (100 + 25) + (50 + 50) + 0 = 225.
+
+The reason is, if we apply the Greedy algorithm by the range of all the combination of TWO pairs (Because MAXIMUM group size == 2).
+Then we will be able to find out the Group4 and Group_3 posseses the highest matched score, that based on the score they rank to each other. We will group [User_3 and User_4] into a group, which is the locally best solution for the TWO pairs.
+
+Then we apply for the same principle for the residual members, we will find out either [User_2 and User_0], [User_1 and User_0] given
+the same sum of the rank. We random select a choice to group them. 
+
+Finally, we get the result of solution, and the score = 225 > 130, way better than the grouping in terms' made.

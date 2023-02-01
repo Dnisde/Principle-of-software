@@ -1,0 +1,11 @@
+.main {
+    margin-top: 10px;
+}
+
+.input-boxes {
+    display: inline-block;
+    width: 175px;
+    position: relative;
+    margin: 10px 5px 0 0;
+    text-align: center;
+}

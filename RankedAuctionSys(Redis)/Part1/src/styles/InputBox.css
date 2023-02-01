@@ -1,0 +1,55 @@
+.user-authenticate {
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    padding-right: 125px;
+}
+
+.wiki-name {
+    width: 233px;
+    background-color: rgba(255, 0, 0, 0.5);
+    text-align: center;
+}
+
+.sum {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.authorized-message {
+    font-size: medium;
+    color: green;
+}
+
+.unauthorized-message {
+    font-size: medium;
+    color: red;
+}
+
+.rank-title {
+    margin-top: 50px;
+}
+
+.pass-word {
+    width: 300px;
+}
+
+.verify-btn {
+    margin-top: 20px;
+    width: 10%;
+}
+
+.logout-btn {
+    margin-top: 20px;
+    width: 10%;
+}
+
+.submit-btn {
+    margin-top: 20px;
+    width: 10%;
+}
+
+.view-btn {
+    margin-top: 20px;
+    width: 10%;
+}
+
