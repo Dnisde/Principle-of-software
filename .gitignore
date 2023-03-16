@@ -1,6 +1,21 @@
 .DS_Store
-/Altimeter(Android OS)/.DS_Store
-/RankedAuctionSys(Redis)/.DS_Store
-/BridgeGame/.DS_Store
-/TaintableInt/.DS_Store
-/TaintableInt/Taintableex.h
+Altimeter(Android OS)/Version1.0/.DS_Store
+Altimeter(Android OS)/Version2.0/.DS_Store
+Altimeter(Android OS)/Version3.0/.DS_Store
+BridgeGame/Backend/.DS_Store
+BridgeGame/Backend/ContractBridge/.DS_Store
+BridgeGame/Backend/ContractBridge/src/.DS_Store
+BridgeGame/Backend/ContractBridge/src/main/.DS_Store
+BridgeGame/Backend/ContractBridge/src/main/java/.DS_Store
+BridgeGame/Backend/ContractBridge/src/main/java/org/.DS_Store
+BridgeGame/Backend/ContractBridge/src/main/java/org/group_b/.DS_Store
+BridgeGame/WikiSource/.DS_Store
+RankedAuctionSys(Redis)/Part0/.DS_Store
+RankedAuctionSys(Redis)/Part1/.DS_Store
+RankedAuctionSys(Redis)/Part1/node_modules/.DS_Store
+RankedAuctionSys(Redis)/Part1/node_modules/@ant-design/.DS_Store
+RankedAuctionSys(Redis)/Part1/node_modules/@ant-design/icons-svg/.DS_Store
+RankedAuctionSys(Redis)/Part1/node_modules/antd/.DS_Store
+RankedAuctionSys(Redis)/Part1/node_modules/date-fns/.DS_Store
+RankedAuctionSys(Redis)/Part1/node_modules/date-fns/esm/.DS_Store
+RankedAuctionSys(Redis)/Part2/.DS_Store
